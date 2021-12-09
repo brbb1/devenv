@@ -177,7 +177,6 @@ set spell
 
 " Vim settings
 set nocompatible
-set t_Co=256
 set number
 set ruler
 set autowriteall
